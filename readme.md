@@ -2,9 +2,8 @@
 
 # Título do Trabalho
 
-#### Alun(o/a): [Nome Sobrenome](https://github.com/link_do_github).
-#### Orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Thiago Magnago Meira](https://github.com/link_do_github).
+#### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
 
 ---
 
@@ -12,11 +11,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/link_do_repositorio/nome_do_arquivo_de_codigo). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
-
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
 
 ---
 
@@ -42,7 +36,7 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.671.007
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
