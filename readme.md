@@ -22,7 +22,7 @@ Não é novidade afirmar que o Brasil tem um dos sistemas tributários mais comp
 
 E essas normas podem impactar negócios e atividades das empresas. Portanto, todas essas novas normas precisam ser diariamente lidas por especialistas com o objetivo de avaliar alguma necessidade de ação: ajustar uma operação, alterar alíquotas em seus softwares ERP, entre outros.
 
-Após a leitura de cada uma das normas, os especialistas concluem (rótulam):
+Após a leitura de cada uma das normas, os especialistas concluem (rotulam):
 - Há impacto na empresa => norma tributária relevante => alguma ação precisa ser tomada.
 - Não há impacto na empresa => norma tributária irrelevante => nenhuma ação a ser tomada.
 
