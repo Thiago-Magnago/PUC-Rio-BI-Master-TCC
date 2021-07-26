@@ -28,7 +28,7 @@ Após a leitura de cada uma das normas, os especialistas concluem (rotulam):
 
 Essa leitura diária consome muitas horas de trabalho, e na maioria dos casos os especialistas leem documentos que não são relevantes para a empresa. (Desperdício de tempo!)
 
-Portanto o objetivo é desenvolver um algorítmo para automaticamente classificar normas tributárias estaduais brasileiras, no contexto de uma empresa do ramo de óleo&gás. Acreditamos que no primeiro momento este classificador ajudaria os especialistas a priorizar a leitura dos documentos. Com o passar do tempo, o modelo pode ser melhorado e os especialistas podem sem sentir mais confiantes em suas predições, resultando em menor necessidade de leitura diária.
+Portanto o objetivo é desenvolver um algorítmo para automaticamente classificar normas tributárias estaduais brasileiras, no contexto de uma empresa do ramo de óleo&gás. Acreditamos que no primeiro momento este classificador ajudaria os especialistas a priorizar a leitura dos documentos. Com o passar do tempo, o modelo pode ser melhorado e os especialistas podem se sentir mais confiantes em suas predições, resultando em menor necessidade de leitura diária.
 
 
 ### Abstract
