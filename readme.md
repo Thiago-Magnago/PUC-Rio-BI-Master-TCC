@@ -1,15 +1,13 @@
-<!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
+# Classificação de relevância de normas tributárias com machine learning
 
-# Título do Trabalho
-
-#### Aluno: [Thiago Magnago Meira](https://github.com/link_do_github).
+#### Aluno: [Thiago Magnago Meira](https://github.com/Thiago-Magnago).
 #### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/link_do_repositorio/nome_do_arquivo_de_codigo). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/Thiago-Magnago/PUC-Rio-BI-Master-TCC/blob/main/NLP_Classifier%20of%20Tax%20Laws.ipynb).
 
 
 ---
