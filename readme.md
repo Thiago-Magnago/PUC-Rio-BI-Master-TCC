@@ -16,7 +16,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 Trabalho de construção de uma PoC de um modelo de machine learning para classificação de texto (aprendizado supervisionado), relativo à relevância de normas tributárias brasileiras.
 
-Não é novidade afirmar que o Brasil tem um dos sistemas tributários mais complexos do mundo. Diariamente são publicados um grande número de normas tributárias: De acordo com o IBPT*, O Brasil cria, em média, 46 novas regras tributárias por dia útil.
+Não é novidade afirmar que o Brasil tem um dos sistemas tributários mais complexos do mundo. Diariamente é publicado um grande número de normas tributárias: De acordo com o IBPT*, O Brasil cria, em média, 46 novas regras tributárias por dia útil.
 
 (*) https://ibpt.com.br/brasil-cria-em-media-46-novas-regras-de-tributos-a-cada-dia-util/. Accesso em: 23-7-2021
 
@@ -35,7 +35,7 @@ Portanto o objetivo é desenvolver um algorítmo para automaticamente classifica
 
 This work builds a machine learning model PoC (Proof of Concept) using Python for text classification (supervised learning), related to Brazilian tax laws relevancy. 
 
-It is no novelty to affirm that Brazil has one of the more complex tax system in the world. Daily are published a large number of taxation laws: According to IBPT*, Brazil creates, on average, 46 new taxation rules per working day.
+It is no novelty to affirm that Brazil has one of the more complex tax system in the world. Daily is published a large number of taxation laws: According to IBPT*, Brazil creates, on average, 46 new taxation rules per working day.
 
 (*) https://ibpt.com.br/brasil-cria-em-media-46-novas-regras-de-tributos-a-cada-dia-util/. Access: 2021-7-23.
 
