@@ -1,7 +1,7 @@
 # Classificação de relevância de normas tributárias com machine learning
 
 #### Aluno: [Thiago Magnago Meira](https://github.com/Thiago-Magnago).
-#### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
+#### Orientador: [Cristian Munoz](https://github.com/crismunoz).
 
 ---
 
