@@ -14,23 +14,41 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
+Trabalho de construção de uma PoC de um modelo de machine learning para classificação de texto (aprendizado supervisionado), relativo à relevância de normas tributárias brasileiras.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Não é novidade afirmar que o Brasil tem um dos sistemas tributários mais complexos do mundo. Diariamente são publicados um grande número de normas tributárias: De acordo com o IBPT*, O Brasil cria, em média, 46 novas regras tributárias por dia útil.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+(*) https://ibpt.com.br/brasil-cria-em-media-46-novas-regras-de-tributos-a-cada-dia-util/. Accesso em: 23-7-2021
 
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+E essas normas podem impactar negócios e atividades das empresas. Portanto, todas essas novas normas precisam ser diariamente lidas por especialistas com o objetivo de avaliar alguma necessidade de ação: ajustar uma operação, alterar alíquotas em seus softwares ERP, entre outros.
 
-### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
+Após a leitura de cada uma das normas, os especialistas concluem (rótulam):
+- Há impacto na empresa => norma tributária relevante => alguma ação precisa ser tomada.
+- Não há impacto na empresa => norma tributária irrelevante => nenhuma ação a ser tomada.
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
+Essa leitura diária consome muitas horas de trabalho, e na maioria dos casos os especialistas leem documentos que não são relevantes para a empresa. (Desperdício de tempo!)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Portanto o objetivo é desenvolver um algorítmo para automaticamente classificar normas tributárias estaduais brasileiras, no contexto de uma empresa do ramo de óleo&gás. Acreditamos que no primeiro momento este classificador ajudaria os especialistas a priorizar a leitura dos documentos. Com o passar do tempo, o modelo pode ser melhorado e os especialistas podem sem sentir mais confiantes em suas predições, resultando em menor necessidade de leitura diária.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
 
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+### Abstract
+
+This work builds a machine learning model PoC (Proof of Concept) using Python for text classification (supervised learning), related to Brazilian tax laws relevancy. 
+
+It is no novelty to affirm that Brazil has one of the more complex tax system in the world. Daily are published a large number of taxation laws: According to IBPT*, Brazil creates, on average, 46 new taxation rules per working day.
+
+(*) https://ibpt.com.br/brasil-cria-em-media-46-novas-regras-de-tributos-a-cada-dia-util/. Access: 2021-7-23.
+
+And these rules may impact on business and activities of the companies. Therefore, all these new laws must be read everyday by experts in order to assess any action: adjust an operation, change aliquots on their ERP software, among others.  
+
+After reading each of them, the experts conclude (label):
+- It has impact on the company => taxation law is relevant => any action to be done.
+- It doesn’t have impact on the company => taxation law is irrelevant => no action.
+
+This daily reading spends many working hours, and in most cases the experts read documents that are not relevant to the company. (Waste of time!)
+
+So the aim is to develop an algorithm to automatically classify the brazilian state taxation law, on the context of a oil&gas company.  We believe that in a first moment this classifier would help experts to prioritize the documentos to read. As time goes by, the model can be improved and experts may feel more confident about its prediction, resulting in a minor daily reading.
+
 
 ---
 
