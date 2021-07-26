@@ -47,7 +47,7 @@ After reading each of them, the experts conclude (label):
 
 This daily reading spends many working hours, and in most cases the experts read documents that are not relevant to the company. (Waste of time!)
 
-So the aim is to develop an algorithm to automatically classify the brazilian state taxation law, on the context of a oil&gas company.  We believe that in a first moment this classifier would help experts to prioritize the documentos to read. As time goes by, the model can be improved and experts may feel more confident about its prediction, resulting in a minor daily reading.
+So the aim is to develop an algorithm to automatically classify the brazilian state taxation laws, on the context of a oil&gas company.  We believe that in a first moment this classifier would help experts to prioritize the documentos to read. As time goes by, the model can be improved and experts may feel more confident about its prediction, resulting in a minor daily reading.
 
 
 ---
